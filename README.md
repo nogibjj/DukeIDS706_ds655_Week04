@@ -1,7 +1,9 @@
-# This is a default Python repository 
+# This is a Python repository to test runs across different versions of Python 
 
-Status badge for default python version: [![Python CI](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml)
-Status badge for Multiple python versions (3.7, 3.8, 3.9): [![Multiple Python Versions](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml)
+  - Status badge for default python version: [![Python CI](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml)
+
+
+  - Status badge for Multiple python versions (3.7, 3.8, 3.9): [![Multiple Python Versions](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml)
 
 
 Files in this repository include:
@@ -21,6 +23,9 @@ Files in this repository include:
 
 ## 4. Resources
   -  This folder contains any other files relevant to this project. Currently, I have added -
+  - `Iris_Data.csv` - a csv file containing the Iris dataset for test purposes
+  - `plot image.png` - a png file containing a plot of the Iris dataset generated automatically by the `Pandas_Plot.py` code
+  - `plot image Jupyter.png` - a png file containing a plot of the Iris dataset generated automatically by the `Python_Jupyter_Notebook.ipynb` code
 
 
 ## 5. CI/CD Automation Files
