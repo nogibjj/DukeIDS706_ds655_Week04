@@ -38,7 +38,7 @@ Files in this repository include:
   ### 5(b). Github Actions
     - Github Actions uses the `main.yml` file to call the functions defined in the Makefile based on triggers such as push or pull. Currently, every time a change is pushed onto the repository, it runs the install packages, formatting the code, linting the code, and then testing the code functions. the status badge for this file is at the top of this README file
 
-    - The folder also has a `matrix.yml` file that runs the same tests on multiple python versions (3.7, 3.8, 3.9) to ensure that the code is compatible with all versions of python. The status badge for this file is at the top of this README file
+    - The folder also has a `matrix.yml` file that runs the same tests on multiple python versions (3.8, 3.9, 3.11) to ensure that the code is compatible with all versions of python. The status badge for this file is at the top of this README file
 
 
   ### 5(c). Devcontainer
