@@ -3,7 +3,7 @@
   - Status badge for default python version: [![Python CI](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/main.yml)
 
 
-  - Status badge for Multiple python versions (3.7, 3.8, 3.9): [![Multiple Python Versions](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml)
+  - Status badge for Multiple python versions (3.8, 3.9, 3.11): [![Multiple Python Versions](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week04/actions/workflows/matrix.yml)
 
 
 Files in this repository include:
